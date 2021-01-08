@@ -1,0 +1,161 @@
+/* * { border: 1px solid red; } */
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  color: #2d6187;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #2d6187;
+  /* font-weight: normal; */
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #a8dda8;
+}
+
+a {
+  color: #a8dda8;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #28abb9;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.contact-me{
+  margin-bottom: 100px;
+}
+
+.last-skill-row {
+  margin-bottom: 0px;
+}
+
+.profile-description {
+  display: inline-block;
+  width: 37rem;
+  line-height: 2;
+}
+
+.mountain {
+  display: block;
+  margin: auto;
+}
+
+.programmer {
+  float: left;
+  margin-right: 30px;
+}
+
+.tennis-players {
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-picture {
+  width: 11.8125rem;
+  padding-top: 100px;
+}
+
+.mid-pic {
+  width: 25%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #28abb9;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.bottom-container{
+  background-color: #28abb9;
+  padding: 50px 0px 20px;
+}
+
+.btn {
+  background: #28abb9;
+  background-image: -webkit-linear-gradient(top, #28abb9, #2797a1);
+  background-image: -moz-linear-gradient(top, #28abb9, #2797a1);
+  background-image: -ms-linear-gradient(top, #28abb9, #2797a1);
+  background-image: -o-linear-gradient(top, #28abb9, #2797a1);
+  background-image: linear-gradient(to bottom, #28abb9, #2797a1);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #36739e;
+  background-image: -webkit-linear-gradient(top, #36739e, #2d6187);
+  background-image: -moz-linear-gradient(top, #36739e, #2d6187);
+  background-image: -ms-linear-gradient(top, #36739e, #2d6187);
+  background-image: -o-linear-gradient(top, #36739e, #2d6187);
+  background-image: linear-gradient(to bottom, #36739e, #2d6187);
+  text-decoration: none;
+}
+
+.contact-me-message{
+  margin: 40px auto 60px;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #40514E;
+  padding: 20px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover{
+  color: white;
+}
+
+.copyright{
+  color: #effad3;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
