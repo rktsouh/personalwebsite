@@ -26,6 +26,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #a8dda8;
+  font-size: 1.17rem;
 }
 
 a {
@@ -41,7 +42,7 @@ hr {
   margin: 100px auto;
 }
 
-.contact-me{
+.contact-me {
   margin-bottom: 100px;
 }
 
@@ -77,6 +78,11 @@ hr {
   line-height: 2;
 }
 
+.contact-row{
+  width: 50%;
+  margin: auto;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -107,9 +113,15 @@ hr {
   left: 250px;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #28abb9;
   padding: 50px 0px 20px;
+  font-size: 1rem;
+}
+
+.footer-row{
+  width: 50%;
+  margin: auto;
 }
 
 .btn {
@@ -124,7 +136,7 @@ hr {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 1rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -139,22 +151,22 @@ hr {
   text-decoration: none;
 }
 
-.contact-me-message{
+.contact-me-message {
   margin: 40px auto 60px;
 }
 
-.footer-link{
+.footer-link {
   text-decoration: none;
   color: #40514E;
   padding: 20px 20px;
   font-family: 'Montserrat', sans-serif;
 }
 
-.footer-link:hover{
+.footer-link:hover {
   color: white;
 }
 
-.copyright{
+.copyright {
   color: #effad3;
   font-size: 0.75rem;
   padding: 20px 0px;
