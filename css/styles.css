@@ -61,7 +61,7 @@ hr {
   margin: 100px auto;
   text-align: left;
   line-height: 2;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 .contact-row{
@@ -85,7 +85,7 @@ hr {
   display: inline-block;
   width: 60%;
   line-height: 2;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 .mountain {
